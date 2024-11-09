@@ -1,4 +1,4 @@
-# GolwalaLab Project Summary (May 2024 - Present
+# GolwalaLab Project Summary (May 2024 - Present)
 > **Important Note:** This repository contains **no** code because all code is confidential, and this is just a repository for a project overview. Code cannot be officialy shared.
 ## Refining Mock Observations of the Sunyaev-Zel’dovich Effect in Massive Galaxy Clusters
 - This project aims to reproduce and enhance the analysis of the kinematic Sunyaev-Zel’dovich (kSZ) effect presented in a previous thesis. The kSZ effect is an observational method used to study cosmic growth and galaxy cluster formation. This work focuses on specific aspects of the original analysis, particularly noise modeling and contaminant handling.
